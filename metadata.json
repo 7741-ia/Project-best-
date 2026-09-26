@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: Infinite Adventure Engine",
+  "description": "An infinite choose-your-own-adventure storytelling engine with real-time dynamic inventory, quests, consistent character artwork generation, and multi-turn companion chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
